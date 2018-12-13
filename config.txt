@@ -1,0 +1,6 @@
+token=NTIyNzkwMzY1NTk4NzExODI5.DvQGQg.IGl484tYPLZq_7e2I5SI8xtiM1M
+owner=504019795600211968
+prefix= 4
+game= Type 4help
+stayinchannel=true
+songinstatus=true
